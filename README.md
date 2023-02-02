@@ -7,7 +7,7 @@ My main professional interest is to be part of an innovative project development
 
 I'm a passionate person about technology and development looking for applications and web pages performance, functionality and design.
 
-- 🔭 I’m currently working on a Booking App 🏨
+- 🔭 I’m currently working on a [Booking App](https://booking-app-nu-ashy.vercel.app/) 🏨
 - 🌱 I’m currently learning Typescript and NodeJS
 - 📫 You can find me on my [LinkedIn](https://www.linkedin.com/in/leandro-d-soria/) as Leandro Soria
 - ⚡ Fun fact: I love cats 😸
