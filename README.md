@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**leandsoria/leandsoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Lean - Front-End Developer
+### Developing beautiful UIs & Websites. 📱
 
-Here are some ideas to get you started:
+My main professional interest is to be part of an innovative project development team that allows me not only to grow both personally and professionally, but also to help potential clients or users to satisfy their needs. I am passionate about front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate person about technology and development looking for applications and web pages performance, functionality and design.
+
+- 🔭 I’m currently working on a Booking App 🏨
+- 🌱 I’m currently learning Typescript and NodeJS
+- 📫 You can find me on my [LinkedIn](https://www.linkedin.com/in/leandro-d-soria/) as Leandro Soria
+- ⚡ Fun fact: I love cats 😸
+
+
+Check my [portfolio!](https://leandsoria.vercel.app/)
