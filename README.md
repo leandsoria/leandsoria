@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 # I'm Lean - Front-End Developer
 ### Developing beautiful UIs & Websites. 📱
