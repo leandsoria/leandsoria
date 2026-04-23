@@ -1,16 +1,13 @@
-### Hey there 👋
+### Hey 👋 I'm Leandro
 
-# I'm Lean - Front-End Developer
-### Developing beautiful UIs & Websites. 📱
+**Fullstack Developer & Web Operations Engineer** based in Buenos Aires 🇦🇷
 
-My main professional interest is to be part of an innovative project development team that allows me not only to grow both personally and professionally, but also to help potential clients or users to satisfy their needs. I am passionate about front-end development.
+I build performant, secure web experiences end-to-end — from UI architecture to server hardening, SSL, CSP headers, and CI/CD. Remote @ **MarketWake**, founder of **Innova Style**.
 
-I'm a passionate person about technology and development looking for applications and web pages performance, functionality and design.
+- 🔨 Building a suite of WordPress plugins (PHP 8.1+, PSR-4, REST API, Freemius, Transient caching)
+- 🧠 Running a local AI production stack on RTX 3090 — ComfyUI + Flux.1, Wan2.1, Ollama
+- 🖥️ Deep in Cloudways, LiteSpeed, security headers, and performance tuning
+- 🌎 EN / ES — open to freelance & collaboration
+- 📫 LinkedIn: [Leandro Soria](https://www.linkedin.com/in/leandro-d-soria/)
 
-- 🔭 I’m currently working on a [Booking App](https://booking-app-nu-ashy.vercel.app/) 🏨
-- 🌱 I’m currently learning Typescript and NodeJS
-- 📫 You can find me on my [LinkedIn](https://www.linkedin.com/in/leandro-d-soria/) as Leandro Soria
-- ⚡ Fun fact: I love cats 😸
-
-
-Check my [portfolio!](https://leandsoria.vercel.app/)
+⚡ Fun fact: I love cats 😸
